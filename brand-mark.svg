@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="203 284 846 686">
+  <title>Impactly</title>
+  <defs>
+    <linearGradient id="violet" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#6b55da"/>
+      <stop offset="1" stop-color="#6550d8"/>
+    </linearGradient>
+    <linearGradient id="green" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#b5cc5b"/>
+      <stop offset="1" stop-color="#b1c853"/>
+    </linearGradient>
+  </defs>
+  <rect x="203" y="559" width="232" height="411" rx="57" fill="url(#violet)"/>
+  <rect x="511" y="284" width="232" height="686" rx="57" fill="url(#violet)"/>
+  <rect x="818" y="444" width="231" height="526" rx="57" fill="url(#green)"/>
+</svg>
